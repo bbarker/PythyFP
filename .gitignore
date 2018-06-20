@@ -1,0 +1,7 @@
+*~
+.idea/
+*.iml
+
+*.pyc
+git stat
+typing_extensions.py
